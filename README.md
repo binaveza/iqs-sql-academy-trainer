@@ -1,0 +1,1 @@
+# iqs-sql-academy-trainer
